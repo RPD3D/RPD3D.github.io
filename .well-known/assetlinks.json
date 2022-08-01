@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "sg.minds.keyword.signs",
+    "sha256_cert_fingerprints":
+    ["66:06:75:7C:0D:08:53:27:41:C1:2D:5A:29:04:AC:00:87:25:8F:5A:ED:80:48:EE:11:D6:88:41:88:E3:B8:74"]
+  }
+}]
